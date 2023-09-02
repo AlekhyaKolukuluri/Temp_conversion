@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bgContainer {
+    background-color: #CEE6F3;
+    height: 100vh;
+}
+
+.heading {
+    font-family: "Sans-Serif";
+    font-size: 60px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    color: #0B2447;
+    font-weight: bold;
+}
+
+.inputData {
+    background-color: white;
+    width: 85%;
+    border-style: solid;
+    border-width: 0.1px;
+    border-color: #16213E;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 15px;
+    font-family: Roboto;
+}
+
+.button {
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 150px;
+    height: 60px;
+    background-color: #0E2954;
+    border-radius: 16px;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.button:hover {
+    background-color: #9DB2BF;
+    color: #0A2647;
+    font-weight: bold;
+}
+
+
+.Para {
+    font-family: "Gill sans";
+    font-size: 30px;
+    margin-top: 15px;
+}
+
+.input-text {
+    font-family: "Gill sans";
+    font-size: 30px;
+    margin-top: 15px;
+}
